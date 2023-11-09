@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.clear {
+    clear: both;
+}
+
+.horizontal {
+    padding :0 0 0 20px ;
+    margin: 0 auto;
+    width: 15px;
+    height: 7px;
+    border-radius: 20%;
+    background-color: #d4276c;
+}
+header h1, header a, .pink, footer div {
+    font-family: 'Caveat Brush', cursive;
+}
+
+header {
+    background: url('img/woddPlank.jpg');
+    margin-bottom: 5%;
+
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+    float : right;
+    padding: 1% 5% 0 0;
+    margin: 0 auto;
+}
+.cerf {
+    width: 10%;
+    margin: 0 auto;
+    margin-top: 12%;
+    display: block;
+}
+
+.arrow {
+    font-size: 30px;
+    position: relative;
+    left : 705px;
+    bottom: 40px;
+    height: 100px;
+}
+
+.a {
+    position: relative;
+    left : 705px;
+    bottom: 40px;
+    height: 100px;
+}
+
+.triangle {
+    position: relative;
+    border-top:10px ;
+    width: 0; 
+    height: 0; 
+    background-color: #d4276cc7;
+    width: 90px;
+    height: 90px;
+    bottom: 116px;
+    left: 673px;
+
+}
+
+body {
+    background-color: rgb(168, 207, 194);
+    width: 90rem;
+    height: 40rem;
+    margin: 15rem;
+}
+
+.e {
+    font-style: italic ;
+    vertical-align: top;
+    position: relative;
+    display: inline;
+}
+
+h1 span {
+    content: "_";
+    bottom: 15px;
+}
+
+.pink {
+    color: #d4276d;
+    text-align: center;
+    font-size: 15px;
+}
+.story {
+    width: 40%;
+    height: 400px;
+    float: left;
+    padding: 5% 0 71px 0;
+    text-align: center;
+    margin: O auto;
+    background-color: white;
+}
+
+.asperge img {
+    width: 60%;
+    height: 543px;
+    margin: 0 auto;
+}
+
+.fare {
+    width: 30%;
+    float: right;
+    padding: 5% 0 71px 0;
+    height: 446px;
+    text-align: center;
+    margin: O auto;
+    background-color: white;
+}
+
+.savon img{
+    width: 1007px;
+    height: 590px;
+    margin: 0 auto;
+}
+
+.graine {
+    margin: 0 auto;
+    width: 30%;
+}
+
+.drink {
+    width: 30%;
+    float: left;
+    padding: 5% 0 0px 0;
+    height: 595px;
+    text-align: center;
+    margin: O auto;
+    background-color: white;
+}
+
+.grainee {
+    margin: 0 auto;
+    width: 30%;
+}
+
+.savon {
+    float: right;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.moule {
+    width: 560px;
+    margin: 0 auto;
+}
+
+.omelette img {
+    left: 20px;
+    width: 1440px;
+    height: 500px;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: white;
+
+    height: 200px;
+}
+
+footer div p {
+    display: inline-block;
+}
+
+.horizontala {
+    position: relative;
+    padding :0 0 0 20px ;
+    margin: 0 auto;
+    width: 6px;
+    height: 5px;
+    border-radius: 20%;
+    background-color: #d4276c;
+    right: 690px;
+    bottom: 25px;
+}
+
+.logo {
+    float: right;
+}
